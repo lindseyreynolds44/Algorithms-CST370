@@ -1,0 +1,9 @@
+3
+7
+insert 0
+tableSize
+insert 1
+tableSize
+insert 2
+insert 3
+tableSize

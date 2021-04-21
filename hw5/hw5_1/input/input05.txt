@@ -1,0 +1,19 @@
+11 
+99 50 88 22 44 66 77 2 11 5 3
+14
+insert 70
+display
+delete 50
+display
+delete 88
+display
+update 3 100
+display
+update 6 4
+update 7 5
+update 3 3
+display
+delete 66
+display
+insert 120
+display

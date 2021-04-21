@@ -1,0 +1,8 @@
+6
+20 10 8 1 3 5
+5
+display
+deleteMax
+displayMax
+update 4 9
+display

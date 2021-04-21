@@ -1,0 +1,2 @@
+Min distance: 5 
+Two numbers for min distance: 50 and 55

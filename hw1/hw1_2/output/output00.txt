@@ -1,0 +1,4 @@
+ANAGRAM
+A:1
+E:1
+T:1

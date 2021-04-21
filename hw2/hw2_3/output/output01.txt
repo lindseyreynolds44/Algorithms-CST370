@@ -1,0 +1,2 @@
+Boxes:0 3 5
+Max Apples:17

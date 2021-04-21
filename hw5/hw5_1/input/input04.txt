@@ -1,0 +1,10 @@
+2
+10 20
+7
+display
+insert 15
+display
+deleteMax
+display
+delete 15
+display
